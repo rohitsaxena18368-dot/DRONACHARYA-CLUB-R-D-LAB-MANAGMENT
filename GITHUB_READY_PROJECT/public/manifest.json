@@ -1,0 +1,26 @@
+{
+  "name": "DRONACHARYA R&D LAB MANAGEMENT",
+  "short_name": "Dronacharya Lab",
+  "description": "Bundelkhand Institute of Engineering and Technology, Jhansi - R&D Lab Management Official App",
+  "start_url": "/",
+  "id": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#071f3a",
+  "theme_color": "#071f3a",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
